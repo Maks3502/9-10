@@ -12,7 +12,7 @@ ul{
     font-family: 'Raleway';
 font-weight: 700;
 font-size: 26px;
-line-height: 31px;
+line-height: 0,011px;
 
 color: #212121;
 }
@@ -20,14 +20,14 @@ color: #212121;
 .link-nav {
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 0,008px;
     letter-spacing: 0.02em;
     color: #212121;
     }
 .title-hero {
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 0,007px;
     /* or 136% */
 
     
@@ -35,23 +35,23 @@ color: #212121;
     text-transform: uppercase;
 color: #212121;
 }
-button {font-weight: 700;
+.button {font-weight: 700;
     font-size: 16px;
-    line-height: 30px;
+    line-height: 0,005px;
     /* identical to box height, or 188% */
     letter-spacing: 0.06em;
 color: #212121;
 }
 .title-why-we {font-weight: 700;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 0,008px;
     letter-spacing: 0.03em;
 
     color: #212121;}
 
 .title-why-we-item {font-weight: 700;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 0,008px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
@@ -60,7 +60,7 @@ color: #212121;
 .why-we-description {
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 0,005px;
     /* or 171% */
 
     letter-spacing: 0.03em;
@@ -70,7 +70,7 @@ color: #212121;
     .title-what-we-do {
         font-weight: 700;
         font-size: 36px;
-        line-height: 42px;
+        line-height: 0,008px;
         letter-spacing: 0.03em;
     
         color: #212121;}
@@ -78,7 +78,7 @@ color: #212121;
         .title-our-team {
             font-weight: 700;
             font-size: 36px;
-            line-height: 42px;
+            line-height: 0,008px;
             letter-spacing: 0.03em;
         
             color: #212121;}
@@ -86,7 +86,7 @@ color: #212121;
             .title-name {
                 font-weight: 500;
                 font-size: 16px;
-                line-height: 19px;
+                line-height: 0,008px;
                 /* identical to box height */
                 letter-spacing: 0.03em;
             
@@ -95,7 +95,7 @@ color: #212121;
               .profesion {
                 font-weight: 400;
                 font-size: 16px;
-                line-height: 19px;
+                line-height: 0,008px;
                 /* identical to box height */
                 letter-spacing: 0.03em;
             
@@ -104,7 +104,7 @@ color: #212121;
                 .footer-link {
                     font-weight: 700;
                     font-size: 26px;
-                    line-height: 31px;
+                    line-height: 0,008px;
                     /* identical to box height */
                 
                     letter-spacing: 0.03em;}
@@ -112,7 +112,7 @@ color: #212121;
                     .link-mailto-tel-address {
                         font-weight: 400;
                         font-size: 14px;
-                        line-height: 24px;
+                        line-height: 0,005px;
                         /* or 171% */
                     
                         letter-spacing: 0.03em;
