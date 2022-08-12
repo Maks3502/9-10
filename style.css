@@ -1,0 +1,122 @@
+a:hover{text-decoration: underline #2196F3; color: #2196F3;} 
+body{
+    font-family: 'Roboto';
+}
+
+ul{
+    list-style: none; /* Убираем маркеры */
+    text-decoration: none;
+}
+
+.logo-header {
+    font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+
+color: #212121;
+}
+
+.link-nav {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    }
+.title-hero {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    /* or 136% */
+
+    
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+color: #212121;
+}
+button {font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    letter-spacing: 0.06em;
+color: #212121;
+}
+.title-why-we {font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.03em;
+
+    color: #212121;}
+
+.title-why-we-item {font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+    color: #212121;}
+
+.why-we-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+
+    letter-spacing: 0.03em;
+
+    color: #757575;}
+
+    .title-what-we-do {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 42px;
+        letter-spacing: 0.03em;
+    
+        color: #212121;}
+
+        .title-our-team {
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 42px;
+            letter-spacing: 0.03em;
+        
+            color: #212121;}
+
+            .name {
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 19px;
+                /* identical to box height */
+                letter-spacing: 0.03em;
+            
+                color: #212121;}
+
+              .profesion {
+                font-weight: 400;
+                font-size: 16px;
+                line-height: 19px;
+                /* identical to box height */
+                letter-spacing: 0.03em;
+            
+                color: #757575;}
+
+                .footer-link {
+                    font-weight: 700;
+                    font-size: 26px;
+                    line-height: 31px;
+                    /* identical to box height */
+                
+                    letter-spacing: 0.03em;}
+
+                    .link-mailto-tel-address {
+                        font-weight: 400;
+                        font-size: 14px;
+                        line-height: 24px;
+                        /* or 171% */
+                    
+                        letter-spacing: 0.03em;
+                    
+                        color: #212121;}
+
+
